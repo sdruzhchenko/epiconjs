@@ -1,0 +1,22 @@
+{
+  "name": "epiconjs",
+  "version": "0.0.1",
+  "description": "javascript utility for data processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdruzhchenko/epiconjs.git"
+  },
+  "keywords": [
+    "js", "javascript", "data", "processing"
+  ],
+  "author": "sdruzhchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdruzhchenko/epiconjs/issues"
+  },
+  "homepage": "https://github.com/sdruzhchenko/epiconjs#readme"
+}

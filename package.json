@@ -11,12 +11,18 @@
     "url": "git+https://github.com/sdruzhchenko/epiconjs.git"
   },
   "keywords": [
-    "js", "javascript", "data", "processing"
+    "js",
+    "javascript",
+    "data",
+    "processing"
   ],
   "author": "sdruzhchenko",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sdruzhchenko/epiconjs/issues"
   },
-  "homepage": "https://github.com/sdruzhchenko/epiconjs#readme"
+  "homepage": "https://github.com/sdruzhchenko/epiconjs#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
 }

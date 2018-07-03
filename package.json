@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/sdruzhchenko/epiconjs#readme",
   "dependencies": {
+    "jest": "^23.2.0",
     "lodash": "^4.17.10"
   }
 }
